@@ -1,0 +1,67 @@
+{
+  "contacts": [
+    {
+      "firstName": "Luke",
+      "lastName": "Skywalker",
+      "age": "23",
+      "photo": "https://images.pexels.com/photos/5792641/pexels-photo-5792641.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "id": "b3abd640-c92b-11e8-b02f-cbfa15db428b"
+    },
+    {
+      "firstName": "satu",
+      "lastName": "saaaa",
+      "age": "110",
+      "photo": "https://blog.castle.io/content/images/2021/03/blog-thumb-1.png",
+      "id": "c535ac00-1157-11ee-84c3-43f1203a134e"
+    },
+    {
+      "firstName": "duaaaa",
+      "lastName": "duuuuu",
+      "age": 22,
+      "photo": "https://e7.pngegg.com/pngimages/173/1006/png-clipart-react-web-development-iphone-8-firebase-others-miscellaneous-gadget.png",
+      "id": "4cde93b0-115d-11ee-84c3-43f1203a134e"
+    },
+    {
+      "firstName": "tigaaa",
+      "lastName": "gaaaa",
+      "age": 33,
+      "photo": "https://www.rumahcoding.co.id/wp-content/uploads/2020/11/React-Native-1024x1024.png",
+      "id": "566a45a0-115d-11ee-84c3-43f1203a134e"
+    },
+    {
+      "firstName": "empat",
+      "lastName": "paaaaaa",
+      "age": 44,
+      "photo": "https://cdn3d.iconscout.com/3d/free/thumb/free-react-native-5562339-4642743.png",
+      "id": "6309ee50-115d-11ee-84c3-43f1203a134e"
+    },
+    {
+      "firstName": "lima",
+      "lastName": "liiii",
+      "age": 55,
+      "photo": "https://blog.logrocket.com/wp-content/uploads/2021/08/react-native-svg-tutorial-examples.png",
+      "id": "d0eeb680-115d-11ee-84c3-43f1203a134e"
+    },
+    {
+      "firstName": "enam",
+      "lastName": "ennn",
+      "age": 66,
+      "photo": "https://w7.pngwing.com/pngs/18/497/png-transparent-black-and-blue-atom-icon-screenshot-react-javascript-responsive-web-design-github-angularjs-github-logo-electric-blue-signage.png",
+      "id": "42c79c40-115e-11ee-84c3-43f1203a134e"
+    },
+    {
+      "firstName": "tuju",
+      "lastName": "tuuuuu",
+      "age": 77,
+      "photo": "https://blog.logrocket.com/wp-content/uploads/2022/03/react-tic-tac-toe-hooks.png",
+      "id": "4e453320-115e-11ee-84c3-43f1203a134e"
+    },
+    {
+      "firstName": "Dwiki",
+      "lastName": "Kurniawan",
+      "age": "26",
+      "photo": "https://images.pexels.com/photos/5792641/pexels-photo-5792641.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "id": "fN3eo1O"
+    }
+  ]
+}
